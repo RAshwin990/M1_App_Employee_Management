@@ -52,4 +52,9 @@ The following are the features of this project:
 1. More advanced and vast databases are already available in the market.
 
 # High level requirements:
-The user 
+|  ID   |              Description               |    Status    |
+|-------|            :-------------:             |--------------|
+| HLR_1 |   The user can create a new data entry | Implemented  |
+| HLR_2 |   The user can modify the data entry   | Implemented  |
+| HLR_3 |   The user can delete the data entry   | Implemented  |
+| HLR_4 |   The user can view the data entry     | Implemented  |
