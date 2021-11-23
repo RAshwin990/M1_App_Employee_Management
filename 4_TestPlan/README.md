@@ -7,8 +7,8 @@
 | HLTP_4 |   The user can view the data entry     | Implemented  |
 
 # Low level requirements:
-|   ID   |           Description         |      O/P     |
+|   ID   |           Description         |Excpected O/P |
 |--------|         :-------------:       |--------------|
-| LLTP_1 |  List of operations displayed | Implemented  |
-| LLTP_2 |  Input from the user          | Implemented  |
-| LLTP_3 |  Exit the program             | Implemented  |
+| LLTP_1 |  List of operations displayed |       1      |
+| LLTP_2 |  Input from the user          |       1      |
+| LLTP_3 |  Exit the program             |       1      |
