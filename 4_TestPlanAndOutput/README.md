@@ -1,17 +1,15 @@
-# High level requirements:
-|  ID    |              Description               |     O/P      |
-|------- |            :-------------:             |--------------|
-| HLTP_1 |   The user can create a new data entry | Implemented  |
-| HLTP_2 |   The user can modify the data entry   | Implemented  |
-| HLTP_3 |   The user can delete the data entry   | Implemented  |
-| HLTP_4 |   The user can view the data entry     | Implemented  |
+# Test Plan
 
-# Low level requirements:
-|   ID   |           Description         |Excpected O/P |
-|--------|         :-------------:       |--------------|
-| LLTP_1 |  List of operations displayed |       1      |
-| LLTP_2 |  Input from the user          |       1      |
-| LLTP_3 |  Exit the program             |       1      |
+|Test ID|Description|Exp I/P|Exp O/P|Actual O/P|Type Of Test|
+|-----|------|-----|-----|-----|------|
+|H_01|check all information related employee put correctly |Id no|record of employee|record Displayed|Requirement Based|
+|H_02|Check wheather same employee record added again |Id no|record of employee|record displayed|Requirement Based|
+
+|Test ID|Description|Exp I/P|Exp O/P|Actual O/P|Type Of Test|
+|-----|------|-----|-----|-----|------|
+|L_01|Check whether it adding,modifying, or deleting the record of employee|Id no|record of employee |records displayed|Scenario Based|
+|L_02|Check wheather there mistakes in records  |Id no |record of employee |record displayed|Scenario Based|
+|L_03|Check all employee have a different employee id  |Id no |record of employee |record displayed|Requirement Based|
 
 # OUTPUT:
 ## START Screen:
