@@ -27,4 +27,4 @@ CODE GRADE:
 | 3_Implementation 	| All code and documentation                    	|
 | 4_TestplanAndOutput | Documents with test plans and procedures      	|
 | 5_Report         	| Documentation of whole project                	|
-| 6_Images         	| All the output images of this projec          	|
+| 6_Images         	| All the output images of this project          	|
