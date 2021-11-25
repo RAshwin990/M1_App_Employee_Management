@@ -64,3 +64,25 @@ The following are the features of this project:
 | LLR_1 |  List of operations displayed | Implemented  |
 | LLR_2 |  Input from the user          | Implemented  |
 | LLR_3 |  Exit the program             | Implemented  |
+
+## Behavior Diagram
+![Behavior Diagram](https://user-images.githubusercontent.com/81633037/142993959-c88d2321-4bcc-42b6-b550-c46916946d64.png)
+
+## Structural Diagram
+![Structure Diagram](https://user-images.githubusercontent.com/81633037/142993992-a5322d39-d7fe-454b-9733-b99d05b9c14b.png)
+
+# OUTPUT:
+## START Screen:
+![Employee_Management_Start_Screen](https://user-images.githubusercontent.com/81633037/143384756-96b4f7d8-a538-44f0-9818-8a127cc92f90.jpeg)
+
+## ADD Employee record:
+![Employee_Management_Add_Record](https://user-images.githubusercontent.com/81633037/143384693-6c696331-2c6a-4653-a0e3-5a5bb6458163.jpeg)
+
+## LIST Employee record:
+![Employee_Management_List_Record](https://user-images.githubusercontent.com/81633037/143384728-fff653b3-4a81-4976-a791-1bbb7c55043f.jpeg)
+
+## MODIFY Employee record:
+![Employee_Management_Modify_Record](https://user-images.githubusercontent.com/81633037/143384806-3f8ea0c0-5811-456a-aa67-0412f33b53d0.jpeg)
+
+## DELETE Employee record:
+![Employee_Management_Delete_Record](https://user-images.githubusercontent.com/81633037/143384828-e9045595-44cc-4d49-b223-94dc7a1adac2.jpeg)
