@@ -71,6 +71,20 @@ The following are the features of this project:
 ## Structural Diagram
 ![Structure Diagram](https://user-images.githubusercontent.com/81633037/142993992-a5322d39-d7fe-454b-9733-b99d05b9c14b.png)
 
+# Test Plan
+
+|Test ID|Description|Exp I/P|Exp O/P|Actual O/P|Type Of Test|
+|-----|------|-----|-----|-----|------|
+|H_01|check all information related employee put correctly |Id no|record of employee|record Displayed|Requirement Based|
+|H_02|Check wheather same employee record added again |Id no|record of employee|record displayed|Requirement Based|
+
+|Test ID|Description|Exp I/P|Exp O/P|Actual O/P|Type Of Test|
+|-----|------|-----|-----|-----|------|
+|L_01|Check whether it adding,modifying, or deleting the record of employee|Id no|record of employee |records displayed|Scenario Based|
+|L_02|Check wheather there mistakes in records  |Id no |record of employee |record displayed|Scenario Based|
+|L_03|Check all employee have a different employee id  |Id no |record of employee |record displayed|Requirement Based|
+
+
 # OUTPUT:
 ## START Screen:
 ![Employee_Management_Start_Screen](https://user-images.githubusercontent.com/81633037/143384756-96b4f7d8-a538-44f0-9818-8a127cc92f90.jpeg)
