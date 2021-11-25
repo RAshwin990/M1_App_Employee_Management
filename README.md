@@ -1,11 +1,15 @@
 # M1_App_EmployeeManagement
 
 CODACY BADGE:
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/aceab853717b47bdb2788e03623ba118)]
+
+![Codacy Badge](https://app.codacy.com/project/badge/Grade/aceab853717b47bdb2788e03623ba118)
+
 CODE SCORE:
+
 ![code_quality_score](https://api.codiga.io/project/30002/score/svg)
 
 CODE GRADE:
+
 ![CODE GRADE](https://api.codiga.io/project/30002/status/svg)
 
 | CODE QUALITY & ANALYSIS-STATIC                                                                                                                                                                                                	| CODE QUALITY & ANALYSIS-DYNANIC                                                                                                                                                                                                           	| UNITY                                                                                                                                                                                                         	| GIT INSPECTOR                                                                                                                                                                                                                             	| BUILD                                                                                                                                                                                                            	|
