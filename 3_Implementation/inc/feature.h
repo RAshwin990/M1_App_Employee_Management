@@ -9,11 +9,6 @@
 
 void gotoxy()
 int main()
-struct emp
-char empname[]
-long int recsize
-fp = fopen()
-recsize = sizeof()
 
 
   
