@@ -1,5 +1,5 @@
-#ifndef FEATURE_H
-#define FEATURE_H
+#ifndef __FEATURE_H
+#define __FEATURE_H
 
 #include <stdio.h> 
 #include <stdlib.h>
@@ -14,3 +14,7 @@ char empname[]
 long int recsize
 fp = fopen()
 recsize = sizeof()
+
+
+  
+#endif
